@@ -39,8 +39,36 @@ Bei der Kommunikation ist es nicht einfach einen formellen Qualitätsbegriff zu 
 
 
 ## Statistik
-Da Statistik als eine Unterdisziplin der Mathematik verstanden werden kann, lassen sich Qualitätskriterien recht einfach über mathematische Grössen definieren. Die Hauptaufgabe der Statistik in einem Data-Science-Prozess ist es ein Modell zu erstellen. Ein Modell besteht aus einer oder mehreren Zielgrössen, aus einer Menge von erklärenden Variablen und einer mathematischen Funktion, welche die erklärenden Variablen als Input aufnehmen und als Output die Zielgrössen bestimmen sollen. Im Innenleben der mathematischen Funktion werden die erklärenden Variablen mit unbekannten Parametern verküpft und als Ergebniss sollen die Zielvariablen resultieren. Die Hauptaufgabe der Statistik besteht in der Schätzung der unbekannten Parametern, so dass die mathematische Beziehung zwischen den erklärenden Variablen und den Zielgrössen möglichst gut ist.
+Da Statistik als eine Unterdisziplin der Mathematik verstanden werden kann, lassen sich Qualitätskriterien über mathematische Grössen definieren. Die Hauptaufgabe der Statistik in einem Data-Science-Prozess ist es ein Modell zu erstellen, das Modell an die beobachteten Daten anzupassen und dann die Modellqualität zu ermitteln. 
+
+Auf einer abstrakten Ebene, das heisst bevor wir Daten gesammelt oder beobachtet haben besteht ein statistisches Modell aus den folgenden Komponenten. 
+
+* Zielgrösse
+* erklärende Variablen und 
+* eine mathematische Funktion.
+
+Die Beziehung zwischen den Bestandteilen sind im folgenden Diagramm dargestellt. Dabei ist die mathematische Funktion im Zentrum. Sie nimmt die erklärenden Variablen als Input auf und verknüft diese mit gewissen Funktionsparametern. Als Resultat dieser Verknüpfungsoperation erhalten wir die Zielgrösse.
+
+```{r stat-model, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+#rmdhelp::use_odg_graphic(ps_path = "odg/stat-model.odg")
+knitr::include_graphics(path = "odg/stat-model.png")
+```
+
+Wie schon erwähnt, ist die oben gezeigte Darstellung für die Situation gültig, in der wir noch keine Daten beobachtet haben. Sobald wir einen Datensatz haben, anhand dessen wir ein konkretes Modell anpassen können, müssen wir das Diagramm wie folgt erweitern.
+
+```{r stat-model-with-data, echo=FALSE, hook_convert_odg=TRUE, fig_path="odg"}
+#rmdhelp::use_odg_graphic(ps_path = "odg/stat-model-with-data.odg")
+knitr::include_graphics(path = "odg/stat-model-with-data.png")
+```
+
+
+In einem statistischen Modellierungsprozess steht uns ein Datensatz mit bekannten Werten für die erklärenden Variablen und die Zielgrössen zur Verfügung. Das Ziel besteht dann darin, die in einer gegebenen Modellfunktion enthaltenen Parameter so zu schätzen, dass die aufgrund einer bestimmten Parameterwahl 
+
+Im Innenleben der mathematischen Funktion werden die erklärenden Variablen mit unbekannten Parametern so verküpft dass als Ergebniss die Zielvariablen möglichst genau angenähert werden. Die Hauptaufgabe der Statistik besteht in der Schätzung der unbekannten Parametern, so dass die mathematische Beziehung zwischen den erklärenden Variablen und den Zielgrössen möglichst gut ist.
 
 
 ## Software Engineering
 Über Qualitätssicherung im Gebiet des Software-Engineerings wurde viel geschrieben. Ich finde die zwölf Regeln von Joel Spolski sehr wertvoll und einen guten Ausgangspunkt. Die Regeln sind in [Joels Blog](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/) aufgelistet und erklärt.
+
+
+  
