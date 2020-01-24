@@ -1,0 +1,27 @@
+---
+title: "Vorschläge für weitere Projekte im Bereich QAAM"
+author: "Peter von Rohr"
+date: "1/20/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Quality Assurance and Automation (QAAM)
+Der Begriff `QAAM` beinhaltet alle Massnahmen im Bereich der Qualitätssicherung und der Automation. Damit in einem Data-Science Projekt irgend ein Qualitätsbegriff angewendet werden kann, muss zuerst die vollständige Reproduzierbarkeit aller Schritte gewährleistet sein. 
+
+
+## Reproduzierbarkeit
+Als ersten Schritt zur Erlangung von reproduzierbaren Analysen wurde durch die Vereinheitlichung der verwendeten Programme über alle Server gewährleistet. Dies wurde durch eine Lösung mit Singularity Containern erreicht.
+
+
+## Weitere Schritte
+Nach dem Abschluss des Projekts zur Vereinheitlichung aller Server stellt sich die Frage, welches soll das nächste Projekt sein, welches im Bereich `QAAM` umgesetzt werden soll. In den folgenden Abschitten sollen ein paar Projektvorschläge skizziert werden.
+
+
+## Übergreifendes Code-Repository
+
+
+

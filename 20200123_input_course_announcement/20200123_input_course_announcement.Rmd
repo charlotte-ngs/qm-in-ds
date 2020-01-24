@@ -1,0 +1,58 @@
+---
+title: "Input zur Ankündigung des Zuchtwertschätzungskurses"
+output: html_notebook
+---
+
+## Disclaimer
+Marina hat mich um Input zu den folgenden Punkten gebeten. 
+
+
+## Originalversion der Ankündigung
+
+Hey Peter, ich hab von Jürg einen Text zum ZWS Kurs bekommen und hab jetzt noch selbst etwas verfasst. Könntest du das mal durchlesen und ein bisschen ergänzen mit Schlagworten? Das würde mir extrem helfen.
+
+Die Zuchtwertschätzung und genomische Selektion ist in der heutigen Nutztierzucht allgegenwärtig. … (Was tut die ZWS? Was macht sie besser in der Zucht? - Hier wäre ein Input super)
+Die komplexen Zusammenhänge und rasanten Entwicklungen in der Forschung machen es jedoch zunehmend schwierig, immer auf dem aktuellsten Wissenstand zu sein. Unser viertägiger Kurs Zuchtwertschätzung und genomische Selektion bietet eine perfekte Gelegenheit, um Ihr vorhandenes Wissen zu diesem Thema aufzufrischen und neue Trends aus der Branche kennenzulernen.
+
+Beim Modul 1 stehen die Grundlagen und Prinzipien der Zuchtwertschätzung und der genomischen Selektion im Vordergrund. Angesprochen werden … sowie die … und … .
+
+Im zweitägigen Modul 2, welches auf dem Modul 1 aufbaut, steigen Sie tiefer in das Thema ein und beschäftigen sich ausführlich mit … und … . … .
+
+Der Abschluss bildet das Modul 3, bei dem neue Trends aus Zuchtwertschätzung und genomischer Selektion im Zentrum stehen. …. .
+
+Der gesamte Kurs richtet sich an Mitarbeitende von Zuchtorganisationen und Besamungsdienstleistern, die ihr Fachwissen auffrischen und erweitern möchten.
+
+Modul 1: Grundlagen und Prinzipien der Zuchtwertschätzung und genomischen Selektion
+Modul 2: Vertiefung zu …
+Modul 3: Neue Trends in Zuchtwertschätzung und genomischer Selektion
+
+---
+
+## Entwurf für Ergänzungen
+Die Zuchtwertschätzung und genomische Selektion ist in der heutigen Nutztierzucht allgegenwärtig. Durch die konsequente Anwendung dieser Technologien (Zuchtwertschätzung und genomische Selektion) konnte die wirtschaftliche Effizienz und die Qualität der aus der Nutztierhaltung resultierenden Produkte in markantem Masse gesteigert werden. Diese Entwicklung wurde durch zwei Ereignisse ausgelöst. 
+
+1. Durch die Einführung von modernen Auswertungsverfahren und die Verbreitung von günstigen Computerresourcen konnten gleichzeitig die systematischen Umwelteinflüsse und das genetische Potential aller Tiere einer bestimmten Nutztierpopulation aufgrund eines Datensatzes geschätzt werden.
+2. Mit der genomischen Selektion wurden die verwendeten Daten um genomischen Markerinformationen erweitert. Bei diesen Markerdaten handelt es sich um die genetischen Varianten an sehr vielen Genorten, welche einen noch besseren Aufschluss über das genetische Potential von Zuchttieren geben und das sehr früh im Lebenslauf eines Tieres. 
+
+Die beiden aufgelisteten Ereignisse haben dazu geführt, dass für sehr viele Tiere einer Nutztierpopulation deren genetisches Potential für die Ausprägung eines bestimmten Merkmals sehr genau erfasst werden kann. Der Wert des genetischen Potentials eines Tieres wird als Zuchtwert bezeichnet. Der Zuchtwert eines Tieres und nicht dessen phänotypische Leistung soll bei der Auswahl von potentiellen Elterntieren einer kommenden Generation verwendet werden, da Eltern nicht Phänotypen sondern eine zufällige Auswahl ihrer Gene an die Nachkommen vererben. 
+
+Die komplexen Zusammenhänge und rasanten Entwicklungen in der Forschung machen es jedoch zunehmend schwierig, immer auf dem aktuellsten Wissenstand zu sein. Unser viertägiger Kurs Zuchtwertschätzung und genomische Selektion bietet eine perfekte Gelegenheit, um Ihr vorhandenes Wissen zu diesem Thema aufzufrischen und neue Trends aus der Branche kennenzulernen.
+
+Beim Modul 1 stehen die Grundlagen und Prinzipien der Zuchtwertschätzung und der genomischen Selektion im Vordergrund. Angesprochen werden interessierte Personen, welche noch keine Vorkenntnisse zum Thema Zuchtwertschätzung mitbringen, sowie alle diejenigen, welche ihre bisherigen Kenntnisse auffrischen möchten.
+
+Im zweitägigen Modul 2, welches auf dem Modul 1 aufbaut, steigen Sie tiefer in das Thema ein und beschäftigen sich ausführlich mit den merkmalsspezifischen Besonderheiten der angewendeten Techniken und Verfahren.
+
+Der Abschluss bildet das Modul 3, bei dem neue Trends aus Zuchtwertschätzung und genomischer Selektion im Zentrum stehen. Dabei werden sicher die Auswertungen neuer Merkmale im Bereich der Gesundheit (zum Beispiel Mastitisresistenz oder Ketose) oder des Verhaltens (Temperament) eine wichtige Rolle spielen. Ein weiterer Schwerpunkt wird die Auswertung von Daten (z. Bsp. von Sensoren oder modernen Melkanlagen), welche aufgrund der fortschreitenden Digitalisierung in der Landwirtschaft bereits generiert und gesammelt werden.
+
+Der gesamte Kurs richtet sich an Mitarbeitende von Zuchtorganisationen und Besamungsdienstleistern, die ihr Fachwissen auffrischen und erweitern möchten.
+
+Modul 1: Grundlagen und Prinzipien der Zuchtwertschätzung und genomischen Selektion
+Modul 2: Vertiefung zu merkmalsspezifischen Besonderheiten der Auswertungen
+Modul 3: Neue Trends in Zuchtwertschätzung und genomischer Selektion
+
+
+---
+
+## Anhang
+
+Durch die konsequente Anwendung dieser Technologien (Zuchtwertschätzung und genomische Selektion) konnte die wirtschaftliche Effizienz und die Qualität der aus der Nutztierhaltung resultierenden Produkte in markantem Masse gesteigert werden. Ein erster Entwicklungsschub wurde in den 1960-er Jahren durch die Entwicklung von modernen statistischen Verfahren, welche es erlauben das genetische Potential von allen Tieren einer ganzen Population simultan zu schätzen. In den grossen Milchrinderrassen werden so die Daten von mehreren Millonen Tieren in einer Auswertung verarbeitet. Der grosse Vorteil dieser modernen Auswertungsverfahren liegt in deren Fähigkeit aufgrund von gemessenen oder beobachteten Daten gleichzeitig die Umwelteinflüsse auf die Merkmalswerte und das genetische Potential der Tiere für die entsprechenden Merkmale zu schätzen. Der Wert des genetischen Potentials eines Tieres wird als Zuchtwert bezeichnet. Da die Eltern   
