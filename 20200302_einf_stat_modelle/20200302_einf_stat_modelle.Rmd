@@ -1,0 +1,23 @@
+--- 
+title: "Einführung in Statistische Modelle"
+date: "2020-03-02"
+author: "Peter von Rohr"
+output: html_notebook
+---
+
+# Erklärung
+Dieser Text bildet die Grundlage für den Vortrag mit dem Titel "Einführung in Statistische Modelle". Die Einführung soll auf ein Zielpublikum mit einer landwirtschaftlichen Ausbildung ausgerichtet werden. Somit wird beim Inhalt bewusst auf mathematische Formulierungen verzichtet.
+
+
+# Lernziele
+Die Absolventinnen und Absolventen des Kurs sind im Anschluss des Kurses mit dem folgenden Fähigkeiten ausgerüstet.
+
+* Sie verstehen den Begriff der Zucht und können diese von anderen Verwendungen des gleichen Begriffs unterscheiden.
+* Sie verstehen die Zielsetzungen der Zucht in einer Population
+* Sie kennen die bestimmenden Faktoren für die Erreichung eines Zuchtfortschritts.
+* Sie verstehen die möglichen Spannungsfelder zwischen züchterischen und betriebswirtschaftlichen Zielsetzungen.
+* Sie verstehen die Bedeutung des Begriffs Zuchtwert aufgrund der zugrundeliegenden Definition.
+* Sie können den Begriff des Zuchtwerts vom Begriff der phänotypischen Leistung unterscheiden und abgrenzen
+* Sie können auf einem Leistungsblatt oder in den Web-Applikationen der ZOs bestimmen bei welchen Angaben es sich um phänotypische Leistungen und bei welchen es sich um Zuchtwerte handelt
+* Aufgrund der Definition des Begriffs Zuchtwert können sie gewisse Eigenschaften von Zuchtwerten einordnen. Beispielsweise, weshalb ein Zuchtwert negativ sein kann, oder weshalb der Zuchtwert im Verlauf des Lebens eines Tieres abnehmen kann.
+
